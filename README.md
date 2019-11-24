@@ -1,4 +1,5 @@
 # Emojithereum
+Ethereum Emoji Hierarchical Deterministic Wallet that uses Emoji icons as a seed phrase.
 
 For https://github.com/teamsempo/fullstack-challenge
 
