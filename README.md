@@ -1,5 +1,7 @@
 # Emojithereum
-Ethereum Emoji Hierarchical Deterministic Wallet that uses Emoji icons as a seed phrase.
+Ethereum Emoji Hierarchical Deterministic Wallet that uses Emoji icons as a seed phrase. 
+
+**NOTE: Definitely NOT for production use**
 
 For https://github.com/teamsempo/fullstack-challenge
 
