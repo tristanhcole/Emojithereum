@@ -1,4 +1,4 @@
-# SempoCodingChallenge
+# Emojithereum
 
 For https://github.com/teamsempo/fullstack-challenge
 
